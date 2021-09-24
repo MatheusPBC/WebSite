@@ -30,6 +30,6 @@ servidor com Apache e MySQL tendo se possivel a porta 80 aberta. No fim executar
 Matheus Pimentel Brackmann Caramuru –  matheuspbrackmannc@gmail.com
 
 
-[https://github.com/MatheusPBC/GerenciadorEventos]
+
 
 
