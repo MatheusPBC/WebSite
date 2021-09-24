@@ -21,6 +21,9 @@
     * Desenvolvimento da Home
 
 ## 💻 Configuração para Desenvolvimento
+Necessario xampp ou programa parecido para da mesma funcionalidade(wampp), executar um
+servidor com Apache e MySQL tendo se possivel a porta 80 aberta. No fim executar em um navegador a pesquisa "localhost"
+
 
 ## 📋 Meta
 
